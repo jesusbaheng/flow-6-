@@ -163,11 +163,11 @@ Para arrancar el entorno necesario, puedes usar los siguientes comandos.
 
 Cuando haya funcionado, verás los indicadores con valores y las gráficas indicando los cambios históricos. 
 
-![](https://github.com/hugoescalpelo/flow6-clima-api-docker-compose-mysql/blob/main/Imagenes/Screenshot%20from%202023-05-26%2002-52-33.png?raw=true)
+![](https://github.com/jesusbaheng/flow-6-/blob/main/imagenes/Screenshot%20from%202023-08-01%2013-09-16.png?raw=true)
 
-![](https://github.com/hugoescalpelo/flow6-clima-api-docker-compose-mysql/blob/main/Imagenes/Screenshot%20from%202023-05-26%2002-48-10.png?raw=true)
+![](https://github.com/jesusbaheng/flow-6-/blob/main/imagenes/Screenshot%20from%202023-08-01%2013-08-49.png?raw=true)
 
-![]()
+![](https://github.com/jesusbaheng/flow-6-/blob/main/imagenes/Screenshot%20from%202023-05-29%2021-20-28.png?raw=true)
 
 **Consejo**: Intenta cambiar el rango de las gráficas historicas a 1 semana y deja el flow funcionando por varios días, observarás la dinamica de clima.
 **Consejo**: Intenta usar este flow en presencia de otros usuarios, verás la información de cada uno de ellos en las gráficas de la sección colaborativa.
